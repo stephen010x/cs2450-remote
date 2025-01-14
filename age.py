@@ -19,5 +19,7 @@ while True:
 
 if age >= 18:
     print("thank god")
-else:
+if age >= 8:
     print("oh. I shouldn't be talking to you.")
+else:
+    print("I don't believe you")
